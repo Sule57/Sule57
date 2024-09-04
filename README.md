@@ -8,6 +8,8 @@
 
 ![Sule57's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sule57&show_icons=true&theme=gotham)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sule57&layout=compact)
+
 <!---
 Sule57/Sule57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
