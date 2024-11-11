@@ -8,7 +8,7 @@
 
 ![Sule57's GitHub stats](https://github-readme-stats-wheat-three-38.vercel.app/api?username=Sule57&show_icons=true&theme=gotham)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sule57&layout=compact)
+![Top Languages](https://github-readme-stats-wheat-three-38.vercel.app/api/top-langs/?username=Sule57&layout=compact)
 
 <!---
 Sule57/Sule57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
